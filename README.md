@@ -1,5 +1,4 @@
-UC Boulder MSDS course work <br>
-DTSA 5511 Deep Learning
+CU Boulder MSDS DTSA 5511 Deep Learning
 
 ## Mini-Project <br> NLP with Disaster Tweets
 
